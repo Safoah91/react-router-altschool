@@ -7,8 +7,8 @@ const Footer = () => {
       <div className="primary-footer">
         <div className="footer-contacts">
           <div className="contact">
-            <a href="mailto:lamteyanastacia@gmail.com">lamteyanastacia@gmail.com</a>
-            <a href="tel:+233249282982">+233 24 928 2982</a>
+            <a href="mailto:lampteyanastasia@gmail.com">lampteyanastasia@gmail.com</a>
+            <a href="tel:+233205171333">+233 20 517 1333</a>
           </div>
           <div className="socials">
             <a href="#">INSTAGRAM</a>
@@ -28,7 +28,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="secondary-footer">
-        Mighty has been proudly headquartered in the heart of downtown Grand Rapids, Michigan since 2007. We have teammates in Philadelphia, Pennsylvania, and Pompano Beach, Florida, and plan, design, and develop content-centered websites and digital products for clients on the East Coast, West Coast, Third Coast, and everywhere in between. Looking for our office? We’re at 50 Louis St NW Ste 520, Grand Rapids, MI 49503.
+        Mighty has been proudly headquartered in the heart of Accra, Ghana since 2020. We have teammates in Kenya, Pennsylvania, Rwanda and Nigeria. We plan, design, and develop content-centered websites and digital products for clients in East Africa , West Africa, and everywhere accross the globe. Looking for our office? We’re located at 22 Boi Street, North Kaneshie, Accra Ghana.
       </div>
     </div>
   )
