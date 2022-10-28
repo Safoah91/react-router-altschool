@@ -12,17 +12,17 @@ const Contact = () => {
           <div className="contact">
             <div className="email">
               <h3>Email</h3>
-              <a href="mailto:lamteyanastacia@gmail.com">lamteyanastacia@gmail.com</a>
+              <a href="mailto:lampteyanastasia@gmail.com">lampteyanastasia@gmail.com</a>
             </div>
             <div className="tel">
               <h3>Text or Call</h3>
-              <a href="tel:+233249282982">+233 24 928 2982</a>
+              <a href="tel:+233205171333">+233 20 517 1333</a>
             </div>
           </div>
 
           <div className="address">
             <h3>Address</h3>
-            <a href="#">50 Louis St NW Ste 520, Grand Rapids, MI 49503</a>
+            <a href="#">22 Boi Street, North Kaneshie, Accra Ghana</a>
           </div>
 
 
